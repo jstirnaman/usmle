@@ -1,0 +1,385 @@
+STEP 2 CK Content Description
+	General Principles
+		Infancy and Childhood 
+			Normal growth and development
+		Adolescence
+			Sexuality; separation from parents/autonomy;physical changes of puberty
+		Senescence 
+			Normal physical and mental changes associatedwith aging
+		Medical Ethics and Jurisprudence 
+			Consent and informed consent to treatment (eg,full disclosure, alternate therapies, risks and benefits,life-support, advance directives, health careproxy)and research issues (eg, consent, placebos, conflictof interest, vulnerable populations)
+			Physician-patient  relationship (eg, truth-telling, confidentiality, privacy,  autonomy, public reporting)  and birth-related issues (eg, prenatal diagnosis,abortion, maternal-fetal conflict)
+			Death and dying (eg, diagnosing death, organ  donation, euthanasia, physician-assisted suicide) andpalliative care (eg, hospice, pain management, family counseling,psychosocial and spiritual issues, fear andloneliness)
+		Applied Biostatistics and Clinical Epidemiology 
+			Understanding statistical concepts of measurementin medical practice
+			Interpretation of the medical literature
+		Systems-Based Practice and Patient Safety
+			Systems-based practice and quality improvement (microsystems and teams	hand-offs, standardization of processes, reducing deviance)
+			Patient safety, medical errors and near misses (sentinel events, problem identification, root cause analysis)
+STEP 2 CK Content Outline
+	Infectious and Parasitic Diseases 
+STEP 2 CK Content Outline
+	Neoplasms
+STEP 2 CK Content Outline
+	Immunologic Disorders 
+		Health and Health Maintenance
+			Anaphylaxis and other allergic  reactions
+			HIV infection/AIDS
+			Immunizationagainst infectious agents 	infants, children,adults,the elderly; patients having compromised immune systems)
+		Mechanisms of Disease 
+			Abnormalities of cell-mediated immunity
+			Abnormalities  of humoral immunity
+		Diagnosis
+			Anaphylactic reactions and shock
+			Connective tissue disorders  (eg, mixed connective tissue disease and systemic lupus  erythematosus)
+			HIV infection/AIDS; deficiencies of cell-mediated  immunity
+			Deficiencies of humoral immunity; combined  immune deficiency
+		Principles of Management
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Diseases of the Blood and Blood-forming Organs 
+		Health and Health Maintenance 
+			Anemia (iron deficiency,vitamin-related, drug-induced, sickle cell)
+			Infection(systemic)
+		Mechanisms of Disease
+			Red cell disorders
+			Coagulation disorders
+			White cell disorders,	leukopenia, agranulocytosis, and neoplasms
+		Diagnosis
+			Anemia, disorders of red cells, hemoglobin,  and iron metabolism (eg, blood loss; iron deficiency  anemia,nutritional deficiencies; pernicious anemia,  other megaloblastic anemias; hemolytic anemia;  anemia associatedwith chronic disease; aplastic anemia, pancytopenia;thalassemia; sickle cell disease; polycythemiavera; hemochromatosis)
+			Bleeding disorders, coagulopathies,  thrombocytopenia (eg, hemophilia, von Willebrand  disease; qualitative and quantitative platelet  deficiencies;disseminated intravascular coagulation; hypofibrinogenemia;immune thrombocytopenic purpura; hemolytic-uremicsyndrome)
+			Neoplastic  disorders (eg, Hodgkin disease,non-Hodgkin lymphomas; acute leukemiain children; acute leukemia in adults; chronicleukemicstates; mycosis fungoides; multiple myeloma)
+			Eosinophiliaand reactions to transfusion of blood components	complications) and leukopenic  disorders, agranulocytosis
+			Infection (eg, sepsis,malaria, mononucleosis)
+		Principles of Management
+			Pharmacotherapy only
+			Management decision (treatment/diagnosissteps)
+			Treatment only
+STEP 2 CK Content Outline
+	Mental Disorders 
+		Health and Health Maintenance
+			Early identification and  intervention (eg, suicide potential, depression, alcohol/substance  abuse, family involvementin schizophrenia)
+		Mechanisms of Disease
+			Biologic markers of mental disorders and mentalretardation syndromes
+			Intended/unintended effects of therapeutic  interventions,	effects of drugs on neurotransmitters
+		Diagnosis 
+			Mental disorders usually first diagnosed ininfancy, childhood, or adolescence (eg, mental retardation;communicationdisorders; pervasive developmental disorders;attention-deficit/hyperactivity disorder; disruptivedisorders; tic disorders; eliminationdisorders)
+			Substance-related disorders (eg, alcohol  and other substances)
+			Schizophrenia and other psychotic  disorders
+			Mood disorders (eg, bipolar disorders; major  unipolar depressive disorders; dysthymic disorder;mood disorder due to a general medical condition; medication-inducedmood disorder)
+			Anxiety disorders (eg, panic  disorder; phobia; obsessive-compulsive disorder; post-traumatic  stress disorder;generalized anxiety disorder; acute stress disorder; separationanxiety disorder; anxiety due to a generalmedical condition; substance-induced anxiety disorder)
+			Somatoform disorders  (eg, factitious disorder; somatization disorder; pain  disorder; conversion disorder; hypochondriasis)
+			Other  disorders/conditions (eg, sexual and gender identity  disorders; personality disorders; child, spouse, elder  abuse; eating disorders;adjustment disorders;dissociative disorders; psychological factors affecting medicalconditions)
+		Principles of Management 
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Diseases of the Nervous System and Special Senses 
+		Health and Health Maintenance 
+			Cerebrovascular disease,cerebral infarction
+			Nutritional deficiencies,  toxic injuries, and occupational disorders	lead, carbon monoxide,and organophosphate poisoning
+			Infection involving the nervoussystem, eyes, or ears
+			Degenerative and demyelinating  disorders,	Alzheimer disease  and multiple sclerosis
+		Mechanisms of Disease
+			Localizing  anatomy:
+				brain and  special senses
+				brain  stem
+				spinal cord
+				neuromuscular  system
+			Anatomy of cerebral  circulation
+			Increasedintracranial pressureand altered state of  consciousness
+			Infection
+			Degenerative/developmental  and metabolic disorders
+		Diagnosis
+			Disorders of the eye (eg, blindness;  glaucoma; infection; papilledema; optic atrophy;  retinal disorders; diabeticretinopathy; diplopia; cataract; neoplasms; vasculardisorders; uveitis; iridocyclitis; traumatic,  toxic injury; toxoplasmosis)
+			Disorders of the ear,  olfaction, and taste (eg, deafness, hearing loss,  otitis, mastoiditis; vertigo, tinnitus,Meniere disease; acoustic neuroma; traumatic,toxic injury)
+			Disorders of the nervous system:
+				paroxysmal disorders  (eg, headache; trigeminal neuralgia; seizure  disorders; syncope)
+				cerebrovascular disease  (eg, intracerebral hemorrhage; ischemic disorders;  aneurysm,   subarachnoid hemorrhage;cavernous sinus thrombosis)
+				traumatic, toxic  injury;	lead, carbon monoxide, and  organophosphate poisoning
+				infections (eg, bacterial,  fungal, viral, opportunistic infection in immunocompromisedpatients; Lymedisease; abscess; neurosyphilis; Guillain-Barré syndrome)
+				neoplasms (eg, primary; metastatic; neurofibromatosis)
+				metabolic disorders (eg, metabolic encephalopathy,vitamin B12 [cobalamin] deficiency,  vitamin B1 [thiamine] deficiency; coma, confusion,  delirium, dementia)
+				degenerative  and developmental disorders (eg, Alzheimerdisease; Huntington disease; parkinsonism;amyotrophic lateral sclerosis; Tay-Sachsdisease; multiple sclerosis; cerebral palsy;dyslexia)
+				neuromuscular disorders, gait abnormalities,  and disorders relating to the spine and  spinal nerve  roots (eg, myasthenia gravis; muscular  dystrophy; peripheral neuropathy; neck pain;  cervical  radiculopathy; lumbosacral radiculopathy;  spinal stenosis)
+				sleep disorders (eg, narcolepsy,idiopathic hypersomnolence, restless legs  syndrome, REM sleep behavior disorder,circadian rhythm sleep disorder, sleepapnea)
+		Principles of Management
+			Pharmacotherapyonly
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Cardiovascular Disorders 
+		Health and Health Maintenance
+			Arterial hypertension
+			Atherosclerosisand coronary artery disease; hyperlipidemia
+			Preventionof rheumatic heart disease, thromboembolic disease,  pulmonary emboli, bacterial endocarditis
+		Mechanisms of Disease
+			Cardiac output, resistance, central venouspressure
+			Valvular stenosis, incompetence
+			Congenital heart disease
+			Regulation of blood pressure
+			Disorders of the arteries  and veins
+		Diagnosis
+			Dysrhythmias; palpitations, syncope (eg, prematurebeats; paroxysmal tachycardias; atrial flutterand fibrillation; bradycardias; ventricular fibrillation;cardiac arrest)
+			Heart failure (congestive, diastolic,  systolic dysfunction), dyspnea, fatigue, peripheraledema of cardiacorigin (eg, chronic heart failure; cor pulmonale)
+			Ischemic heart disease; chest  pain of cardiac origin (eg, angina pectoris; coronary  insufficiency;myocardial infarction)
+			Diseases of the myocardium (eg, hypertrophic; myocarditis)
+			Diseases  of the pericardium (eg, acute pericarditis; chronicconstrictive pericardiopathy; pericardialeffusion; pericardial tamponade)
+			Valvular heart disease (eg, acute rheumatic  fever; mitral and aortic valve disorders; infectiveendocarditis)
+			Congenital cardiovascular disease (eg, patent ductus  arteriosus; atrial septal defect; ventricularseptal defect; endocardial cushion defect; tetralogy of Fallot;coarctation of the aorta)
+			Systemic hypotension,  hypovolemia, cardiogenic shock; cyanosis
+			Arterial hypertension  (eg, essential; secondary)
+			Atherosclerosis - lipoproteins
+			Disorders of the great  vessels (eg, dissecting aortic aneurysm; ruptured aneurysm;aortoiliac disease)
+			Peripheral arterial vascular diseases, vasculitis (eg,  polyarteritis; temporal arteritis;arteriovenous fistula)
+			Diseases of the veins, peripheral edema (eg, varicose  veins; thrombophlebitis; deepvenous thrombosis)
+			Traumatic injury
+		Principles of Management
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Diseases of the Respiratory System 
+		Health and Health Maintenance 
+			Chronic bronchitis, asthma,  emphysema, carcinoma of the larynx, carcinoma of the  lung; pulmonary aspiration, atelectasis;tuberculosis
+		Mechanisms of Disease 
+			Ventilatory dysfunction (eg, obstructive disorders:asthma, chronic obstructive pulmonary disease,cystic fibrosis, bronchitis, bronchiectasis, emphysema)
+			Respiratory  failure, acute and chronic,	oxygenation failure  (eg, interstitial pneumonitis, pulmonaryedema, acute respiratory distress syndrome, ventilation failure)
+			Circulatory  dysfunction
+			Neoplastic disorders
+		Diagnosis
+			Disorders of the nose, paranasal sinuses, pharynx,larynx, and trachea (eg, rhinitis; pharyngitis,tonsillitis, peritonsillar abscess; thrush; sinusitis;acute laryngotracheitis;epiglottitis; carcinoma of the larynx; laryngeal/pharyngealobstruction; trauma; tracheoesophageal fistula)
+			Infections of the lung (eg, acute bronchiolitis; pneumonia;tuberculosis)
+			Obstructive airways disease (eg,  chronic bronchitis, bronchiectasis; asthma, bronchospasm,  wheezing;emphysema,
+			1-antitrypsindeficiency; cystic fibrosis)
+			Atelectasis, pulmonary  aspiration
+			Pneumothorax, hemothorax, traumatic injury  to the lungs and disorders involving the pleura (eg,  pleurisy;pleural effusion)
+			Pneumoconiosis, fibrosing or restrictive pulmonary  disorders (eg, asbestosis; silicosis; sarcoidosis)
+			Respiratory failure, hypoxia, hypercapnia, dyspnea(eg, respiratory distress syndrome of thenewborn; acute respiratory distress syndrome; acute andchronic respiratory failure; drowning)
+			Pulmonary vascular disorders  (eg, pulmonary embolism; pulmonary hypertension; pulmonary  edema)
+			Neoplastic disorders of the lungs and pleura  (eg, primary tumors; metastatic tumors)
+		Principles of Management 
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Nutritional and Digestive Disorders 
+		Health and Health Maintenance
+			Screening (eg, cancer)
+			Viral hepatitisand alcohol-related hepatopathy
+		Mechanisms of Disease
+			Malabsorption/malnutrition
+			Jaundice
+			Infections/parasites
+			Obstruction/mechanical
+		Diagnosis
+			Disorders of the mouth, salivary glands, oropharynx,and esophagus (eg, dental disorders; disordersof the salivary glands; esophageal reflux; dysphagia;motilitydisorders of the esophagus; hiatal hernia; carcinomaof the esophagus)
+			Disorders of the stomach, small  intestine, colon, and rectum/anus (eg, gastritis; peptic  ulcer disease;congenital disorders; malabsorption; appendicitis; granulomatous  enterocolitis; ischemic colitis; irritablebowel syndrome; diverticula; colonic polyps; ulcerativecolitis; peritonitis;  bowel obstruction, volvulus, intussusception;hernia; necrotizing enterocolitis; infection; carcinoma of  the stomach, colon, and rectum; antibiotic-associated  colitis; hemorrhoids; anal fissures; anal fistula;  perianal/perirectal abscess)
+			Disorders of the  pancreas (eg, pancreatitis; pseudocyst; carcinoma of  the pancreas)
+			Disorders of the liver and biliary system  (eg, hepatitis; cirrhosis; hepatic failure, hepaticencephalopathy, jaundice; portal hypertension; ascites,esophageal  varices; cholelithiasis; cholecystitis;hepatic abscess, subphrenic abscess; neoplasms of theliver; storagediseases; neoplasms of the biliary tract)
+			Traumatic  injury and poisoning 	drain cleaner ingestion)
+		Principles of Management
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Gynecologic Disorders 
+		Health and Health Maintenance
+			Postmenarchal/reproductive
+			Peri/postmenopausal
+		Mechanisms of Disease
+			Infections (eg, vulvovaginitis; pelvic  inflammatory disease; toxic shock; sexually transmitted  disease;endometritis; urethritis; Bartholin glandabscess; abscess of the breast; mastitis)
+			Urinary  incontinence and obstruction
+			Menstrual and endocrinologicdisorders; infertility
+		Diagnosis
+			Pelvic  relaxation and urinary incontinence (eg, urinary  tract infection;  uterovaginal prolapse; cystocele,rectocele, urethrocele)
+			Neoplasms (eg, cervical  dysplasia, cancer; leiomyomata uteri; endometrial  cancer; ovarian neoplasms;neoplastic disorders of the breast; vulvar neoplasms)
+			Benign conditions of thebreast
+			Menstrual and endocrinologic disorders (eg,  amenorrhea [	undiagnosed pregnancy]; abnormaluterine bleeding; dysmenorrhea; menopausal, postmenopausal  disorders [osteoporosis]; premenstrual syndrome;  hirsutism, virilization; ovarian disorders[ovarian failure, polycystic ovarian syndrome])
+			Sexual abuse and rape
+		Principles of Management 
+			Pharmacotherapyonly
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Renal, Urinary, and Male Reproductive Systems 
+		Health and Health Maintenance
+			Infection (eg, urinary  tract, sexually transmitted diseases [male])
+			Acute andchronic renal failure	risk factors and  prevention and methods of limiting progression
+			Malehealth maintenance examination (eg, testicular, prostatic)
+		Mechanisms of Disease
+			Disorders of the male reproductivesystem
+			Urinary incontinence and obstruction, enuresis
+			Renal  insufficiency/failure
+			Electrolyte and water metabolism  and acid-base balance
+		Diagnosis
+			Disorders of the male reproductive system (eg,infections; torsion of the testis; undescended testicle;neoplasmsof the testis; benign prostatic hyperplasia;carcinoma of the prostate; hypospadias; hydrocele, varicocele;urethral stricture, impotence, premature ejaculation)
+			Disorders  of the urinary bladder and urinary collecting system  (eg, cystitis; pyelitis; dysuria, hematuria,  pyuria; carcinoma of the bladder; urolithiasis;ureteral reflux; neurogenic bladder; urinary incontinence; enuresis;obstruction; hydronephrosis)
+			Disorders of the  kidneys (eg, pyelonephritis; glomerulonephritis; interstitial  nephropathy; renal insufficiencyand failure; oliguria, anuria, azotemia, uremia, renal osteodystrophy;hypertensive renal disease; lupus nephritis;inherited disorders)
+			Traumatic injury
+		Principles of Management 
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Disorders of Pregnancy, Childbirth, and the Puerperium 
+		Health and Health Maintenance
+			Prenatal care(eg, nutrition; prevention of iron deficiency; preventionof vitamin deficiency; Rh immunoglobulin prophylaxis;prenatal diagnosis; teratology, diabetes mellitus,  urinary tract infection,
+			-fetoprotein,  rubella, genital herpes, streptococcal infections)
+			Assessmentof the at-risk pregnancy; risk of preterm labor
+			Intrapartumcare; signs of fetal compromise
+			Contraception; sterilization;prevention of pregnancy after rape
+		Mechanisms of Disease
+			Placenta, placental dysfunction
+			Pregnancy and labor,	infection
+			Postpartum disorders,	infection
+			Fetus and newborn
+		Diagnosis
+			Pregnancy and labor,	obstetric  complications (eg, ectopic pregnancy; spontaneous abortion/septic  abortion; hypertension; third-trimester bleeding; hydramnios;  preterm labor, premature rupture of the membranes,normal labor; multiple gestation; intrapartum fetal distress/fetal  death; maternal mortality; fetal growth and development  abnormalities; congenital abnormalities; gestationaltrophoblastic  disease)
+			Nonobstetric complications of pregnancy (eg,  major medical complications and preexisting medicalconditions; surgical complications; hyperemesis gravidarum)
+			Complications  of the puerperium (eg, problems with breast-feeding;  postpartum hemorrhage; postpartum sepsis; postpartum  depression, psychosis; mastitis;venous thromboembolism)
+		Principles of Management 
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Disorders of the Skin and Subcutaneous Tissues
+		Health and Health Maintenance
+			Epidemiology and preventionof skin disorders secondary to exposure to thesun; contact dermatitis and drug  reactions; decubitus ulcers; dermatophyticskin disorders
+		Mechanisms of Disease
+			Skin disorders,	cancer, infections,  and inflammatory disorders
+		Diagnosis 
+			Infections (eg, herpes simplex, herpes  zoster, chickenpox; cellulitis, carbuncle, abscess,  gangrene; dermatophytoses;  pilonidal cyst; viral warts; decubitus ulcers)
+			Neoplasms (eg, squamous cell carcinoma; melanoma;  actinic keratosis, basal cell carcinoma; pigmentednevi; hemangiomas)
+			Other skin disorders (eg,industrial, occupational, and atopic dermatitis;psoriasis; seborrhea;acne)
+		Principles of Management
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Diseases of the Musculoskeletal System and Connective Tissue 
+		Health and Health Maintenance
+			Epidemiology, impact, and  prevention of degenerative joint and disc disease
+			Preventionof disability due to musculoskeletal disorders or  infection (eg, osteomyelitis; septic arthritis;Lyme disease; gonococcal tenosynovitis)
+		Mechanisms of Disease
+			Infections
+			Nerve compressions and degenerative, metabolic,  and nutritional disorders
+			Inherited, congenital, or  developmental disorders
+			Inflammatory or immunologic  disorders
+		Diagnosis 
+			Infections (eg, osteomyelitis; septic arthritis;Lyme disease; gonococcal tenosynovitis)
+			Degenerative,  metabolic, and nutritional disorders (eg, degenerative  joint disease; degenerative discdisease; gout; rickets)
+			Inherited, congenital,  or developmental disorders (eg, congenital hip dysplasia;  phocomelia; osteochondritis;  slipped capital femoral epiphysis; scoliosis;syringomyelia, dislocated hip in infantile spinal muscular atrophy)
+			Inflammatory, immunologic, and other disorders (eg,  polymyalgia rheumatica; lupus arthritis; polymyositis-dermatomyositis;rheumatoid arthritis; ankylosing spondylitis;bursitis;tendinitis; myofascial pain; fibromyalgia;shoulder-hand syndrome; Dupuytren contracture;Pagetdisease)
+			Neoplasms (eg, osteosarcoma; metastasesto bone; pulmonary osteoarthropathy)
+			Traumatic  injury and nerve compression and injury (eg, fractures,  sprains, dislocations, carpaltunnel syndrome; cauda equina syndrome, low back pain)
+		Principles of Management
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Endocrine and Metabolic Disorders
+		Health and Health Maintenance 
+			Diabetes mellitus,	prevention of morbidity and mortalitydue to complications
+			Screening (eg, cancer)
+		Mechanisms of Disease
+			Thyroid function
+			Diabetes mellitus and carbohydratemetabolism
+			Parathyroid and calcium metabolism
+			Pituitary and  hypothalamic function
+			Adrenal function
+		Diagnosis 
+			Thyroid disorders (eg, nodule; carcinoma;  acquired hypothyroidism; thyroiditis; thyrotoxicosis;  congenitalhypothyroidism; goiter)
+			Diabetes mellitus (eg,  type 1, type 2; ketoacidosis; hyperosmolar coma;chronic complications)
+			Parathyroid and calcium disorders  (eg, hyperparathyroidism; hypoparathyroidism),  and hypoglycemia and hyperinsulinism(eg, iatrogenic; insulinoma)
+			Pituitary, hypothalamic  disorders (eg, diabetes insipidus; inappropriate  ADH secretion; panhypopituitarism;acromegaly)
+			Adrenal disorders (eg, corticoadrenal  insufficiency; Cushing syndrome; adrenogenital  syndrome; hyperaldosteronism; pheochromocytoma)
+			Heat-relatedillness
+		Principles of Management 
+			Pharmacotherapy only
+			Management decision (treatment/diagnosis  steps)
+			Treatment only
+STEP 2 CK Content Outline
+	Congenital Anomalies
+STEP 2 CK Content Outline
+	Conditions Originating in the Perinatal Period 
+STEP 2 CK Content Outline
+	Symptoms, Signs, and Ill-defined Conditions
+STEP 2 CK Content Outline
+	Injury and Poisoning
+Step 2 CS Case Development
+	Standardized Patient-Based Examinations
+	Examination Blueprint
+Description of the Examination
+		If you do not bring acceptable identification, you will not be admitted to the test
+		If you arrive during the on-site orientation, you may be allowed to test; however, you will be required to sign a Late Admission Form. If you arrive after the on-site orientation, you will not be allowed to test
+	Examination Length
+	Equipment and Examinee Instructions
+	The Patient Encounter
+		Do not assume
+	Physical Examination 
+		it is critical that you apply no more than the amount of pressure that is appropriate
+		unless you are explicitly told not to do so
+		Be certain that you have obtained all necessary information before leaving the examination room
+	Telephone Patient Encounters
+			Do not dial any numbers.
+			Push the speaker button by the yellow dot on the phone to be connected.
+			You will be permitted to make only one phone call.
+			Do not touch any buttons on the phone until you are ready to end the call - touching any buttons may disconnect you.
+			To end the call on a phone case, press the speaker button above the yellow dot.
+			You will not be allowed to call back after you end the call.
+	The Patient Note
+		Note: If you leave the patient encounter early, you may use the additional time for the note
+		IMPORTANT NOTE:
+		Treatment, consultations, or referrals should not be included in your work-up plan
+		ONLY
+		immediately
+	Other Case Formats
+Testing Regulations and Rules of Conduct
+		You cannot discuss the cases with your fellow examinees, during breaks or at any time.
+		Testing Regulations and Rules of Conduct
+		 Irregular Behavior
+	Irregular Behavior
+			Seeking and/or obtaining unauthorized access to examination materials;
+			Providing false information or making false statements on application forms or other USMLE-related documents;
+			Taking an examination without being eligible for it or attempting to do so;
+			Impersonating an examinee or engaging someone else to take the examination for you;
+			Giving, receiving, or obtaining unauthorized assistance during the examination or attempting to do so;
+			Making notes of any kind during the examination, except on the blank paper provided to you;
+			Failure to adhere to any USMLE policy, procedure or rule,	instructions of the test center staff;
+			Disruptive or unprofessional behavior at the test center;
+			Interacting with any standardized patient outside of that standardized patient's given case portrayal, before, during, or after the examination;
+			Conversing with other Step 2 CS examinees in any language other than English at any time while at the test center;
+			Possessing unauthorized materials,	notes and study guides, photographic equipment, communication or recording devices, pagers, cellular phones, watches of any type, and personal digital assistants (PDAs) during the entire testing session, including during breaks;
+			Altering or misrepresenting examination scores;
+			Any unauthorized reproduction by any means,	reconstruction through memorization and/or dissemination of copyrighted examination materials and examination content (this includes the reproduction and dissemination of examination content on the Internet, email and listservs);
+			Providing or attempting to provide any information,	that relating to examination content, that may give or attempt to give unfair advantage to individuals who may be taking the examination;
+			Engaging in behaviors that could constitute a real or potential threat to a patient's safety, such as careless or dangerous actions during physical examination.
+Scoring the Step 2 CS Examination
+	Scoring of the Step 2 Clinical Skills Subcomponents
+			Data gathering - patient information collected by history taking and physical examination
+			Documentation - completion of a patient note summarizing the findings of the patient encounter, diagnostic impression, and initial patient work-up
+			Clarity of spoken English communication within the context of the doctor-patient encounter (eg, pronunciation, word choice, and minimizing the need to repeat questions or statements)
+	Step 2 CS Score Report Schedule
+Terms Used in the Step 2 CS Examination
+Common Abbreviations for the Patient Note
+		Note:
+Appendix A
+	Patient Note Screen
+Appendix B
+	Sample Patient Note Styles
+	Patient Note Example One
+	Patient Note Example Two 
+Appendix C
+	Patient Note
+Appendix D
+	Clinical Skills Evaluation Collaboration (CSEC) Center Addresses
+		CSEC Center - Atlanta
+		CSEC Center - Chicago
+		CSEC Center - Houston
+		CSEC Center - Los Angeles
+		CSEC Center - Philadelphia
+		OR

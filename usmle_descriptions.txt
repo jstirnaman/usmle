@@ -1,0 +1,651 @@
+Step 1 is constructed from an integrated content outline that organizes basic science content according to general principles and individual organ systems. Test questions are classified in one of these major areas depending on whether they focus on concepts and principles that are important across organ systems or within individual organ systems. Sections focusing on individual organ systems are subdivided according to normal and abnormal processes, principles of therapy, and psychosocial, cultural, and environmental considerations. Each examination covers content related to the traditionally defined disciplines of anatomy, behavioral sciences, biochemistry, microbiology, pathology, pharmacology, and physiology, as well as to interdisciplinary areas including genetics, aging, immunology, nutrition, and molecular and cell biology.
+1. General Principles (Foundations of Medicine)
+1.1. Biochemistry and molecular biology
+1.1.1. gene expression: DNA structure, replication, exchange, and epigenetics
+1.1.2. gene expression: transcription
+1.1.3. gene expression: translation, post-translational processing, modifications, and disposition of proteins (degradation), including protein/glycoprotein synthesis, intra/extracellular sorting, and processes/functions related to Golgi complex and rough endoplasmic reticulum
+1.1.4. structure and function of proteins and enzymes
+1.1.5. energy metabolism
+1.2. Biology of cells
+1.2.1. adaptive cell responses and cellular homeostasis
+1.2.2. intracellular accumulations
+1.2.3. mechanisms of injury and necrosis
+1.2.4. apoptosis
+1.2.5. mechanisms of dysregulation
+1.2.5.1. cell biology of cancer, including genetics of cancer
+1.2.5.2. general principles of invasion and metastasis, including cancer staging
+1.2.6. cell/tissue structure, regulation, and function, including cytoskeleton, organelles, glycolipids, channels, gap
+1.2.7. junctions, extracellular matrix, and receptors
+2. Human development and genetics (Genetics and Neoplasia)
+2.1. principles of pedigree analysis
+2.1.1. inheritance patterns
+2.1.2. occurrence and recurrence risk determination
+2.2. population genetics: Hardy-Weinberg law, founder effects, mutation-selection equilibrium
+2.3. principles of gene therapy
+2.4. genetic testing and counseling
+2.5. genetic mechanisms
+3. Biology of tissue response to disease (Inflammation and Immunity)
+3.1. acute inflammatory responses (patterns of response)
+3.1.1. acute inflammation and mediator systems
+3.1.2. vascular response to injury, including mediators
+3.1.3. principles of cell adherence and migration
+3.1.4. microbicidal mechanisms and tissue injury
+3.1.5. clinical manifestations
+3.2. chronic inflammatory responses
+3.3. reparative processes
+3.3.1. wound healing, hemostasis, and repair; thrombosis, granulation tissue, angiogenesis, fibrosis, scar/keloid formation
+3.3.2. regenerative processes
+4. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+4.1. progression through the life cycle, including birth through senescence (Medicine Across the Lifespan)
+4.1.1. cognitive, language, motor skills, and social and interpersonal development
+4.1.2. sexual development
+4.1.3. influence of developmental stage on physician-patient interview
+4.2. psychological and social factors influencing patient behavior
+4.2.1. personality traits or coping style, including coping mechanisms
+4.2.2. psychodynamic and behavioral factors, related past experience
+4.2.3. family and cultural factors, including socioeconomic status, ethnicity, and gender
+4.2.4. adaptive behavioral responses to stress and illness
+4.2.5. maladaptive behavioral responses to stress and illness
+4.2.6. interactions between the patient and the physician or the health care system
+4.2.7. patient adherence (general and adolescent)
+4.3. patient interviewing, consultation, and interactions with the family
+4.3.1. establishing and maintaining rapport
+4.3.2. data gathering
+4.3.3. approaches to patient education
+4.3.4. enticing patients to make lifestyle changes
+4.3.5. communicating bad news
+4.3.6. “difficult” interviews
+4.3.7. multicultural ethnic characteristics
+4.4. medical ethics, jurisprudence, and professional behavior
+4.4.1. consent and informed consent to treatment
+4.4.2. physician-patient relationships
+4.4.3. death and dying
+4.4.4. birth-related issues
+4.4.5. issues related to patient participation in research
+4.4.6. interactions with other health professionals, including impaired physician and patient safety
+4.4.7. sexuality and the profession; other “boundary” issues
+4.4.8. ethics of managed care
+4.4.9. organization and cost of health care delivery
+5. Multisystem processes
+5.1. nutrition (GI/Nutrition)
+5.1.1. generation, expenditure, and storage of energy at the whole-body level
+5.1.2. assessment of nutritional status across the life span, including calories, protein, essential nutrients, hypoalimentation
+5.1.3. functions of nutrients
+5.1.4. protein-calorie malnutrition
+5.1.5. vitamin deficiencies and/or toxicities (including megaloblastic anemia with other findings)
+5.1.6. mineral deficiencies and toxicities
+5.2. temperature regulation
+5.3. adaptation to environmental extremes, including occupational exposures (Integration and Consolidation)
+5.3.1. physical and associated disorders (including temperature, radiation, burns, decreased atmospheric pressure, high-altitude sickness, increased water pressure)
+5.3.2. chemical (including gases, vapors, smoke inhalation, agricultural hazards, organic solvents, heavy metals, principles of poisoning and therapy)
+5.4. fluid, electrolyte, and acid-base balance disorders
+6. inherited metabolic disorders, including disorders related to amino acids, purines, porphyrins, carnitine, fatty acids, and carbohydrates
+7. Pharmacodynamic and pharmacokinetic processes (Integration and Consolidation)
+7.1. general principles
+7.1.1. pharmacokinetics: absorption, distribution, metabolism, excretion, dosage intervals
+7.1.2. mechanisms of drug action, structure-activity relationships (including anticancer drugs)
+7.1.3. concentration- and dose-effect relationships, types of agonists and antagonists and their actions
+7.1.4. individual factors altering pharmacokinetics and pharmacodynamics
+7.1.5. mechanisms of drug adverse effects, overdosage, toxicology
+7.1.6. mechanisms of drug interactions
+7.1.7. regulatory issues
+7.1.8. signal transduction, including structure/function of all components of signal transduction pathway such as receptors, ligands
+7.1.9. cell cycle/cell cycle regulation
+8. Microbial biology and infection
+8.1. microbial identification and classification, including principles, microorganism identification, and non-immunologic
+8.2. lab diagnosis
+8.3. bacteria
+8.3.1. structure
+8.3.2. processes, replication, and genetics
+8.3.3. oncogenesis
+8.3.4. antibacterial agents
+8.4. viruses
+8.4.1. structure
+8.4.2. processes, replication, and genetics
+8.4.3. oncogenesis
+8.4.4. antiviral agents
+8.5. fungi
+8.5.1. structure
+8.5.2. processes, replication, and genetics
+8.5.3. antifungal agents
+8.6. parasites
+8.6.1. structure
+8.6.2. processes, replication, and genetics
+8.6.3. antiparasitic agents
+8.7. prions
+8.8. epidemiology, outbreaks, and infection control
+9. Quantitative methods (Foundations of Medicine)
+9.1. fundamental concepts of measurement
+9.1.1. scales of measurement
+9.1.2. distribution, central tendency, variability, probability
+9.1.3. disease prevalence and incidence
+9.1.4. disease outcomes
+9.1.5. associations
+9.1.6. health impact
+9.1.7. sensitivity, specificity, predictive values
+9.2. fundamental concepts of study design
+9.2.1. types of experimental studies
+9.2.2. types of observational studies
+9.2.3. sampling and sample size
+9.2.4. subject selection and exposure allocation
+9.2.5. outcome assessment
+9.2.6. internal and external validity
+9.3. fundamental concepts of hypothesis testing and statistical inference
+9.3.1. confidence intervals
+9.3.2. statistical significance and Type I error
+9.3.3. statistical power and Type II error
+10. Hematopoietic and Lymphoreticular Systems (Blood and Lymphoid)
+10.1. Normal processes
+10.1.1. embryonic development, fetal maturation, and perinatal changes
+10.1.2. organ structure and function
+10.1.3. cell/tissue structure and function
+10.1.3.1. production and function of erythrocytes, hemoglobin, O2 and CO2 transport, transport proteins
+10.1.3.2. production and function of platelets
+10.1.3.3. production and function of coagulation and fibrinolytic factors
+10.1.4. repair, regeneration, and changes associated with stage of life
+10.2. Abnormal processes
+10.2.1. infectious, inflammatory, and immunologic disorders
+10.2.1.1. infections of the blood, reticuloendothelial system, and endothelial cells
+10.2.1.2. autoimmunity and autoimmune diseases
+10.2.1.3. anemia of chronic disease
+10.2.1.4. non-immunologically mediated transfusion complications, transplant rejection
+10.2.2. traumatic and mechanical injury
+10.2.3. neoplastic disorders (including lymphoma, leukemia, multiple myeloma, dysproteinemias, amyloidosis)
+10.2.4. metabolic and regulatory disorders, including acquired
+10.2.4.1. nutritional anemias
+10.2.4.2. cythemia
+10.2.4.3. hemorrhagic and hemostatic disorders
+10.2.4.4. bleeding secondary to platelet disorders and disorders of primary hemostasis
+10.2.5. vascular and endothelial disorders
+10.2.6. systemic disorders affecting the hematopoietic and lymphoreticular system
+10.2.7. idiopathic disorders
+10.2.8. degenerative disorders
+10.2.9. drug-induced adverse effects of the hematopoietic and lymphoreticular systems
+10.2.10. congenital and genetic disorders affecting the hematopoietic and lymphoreticular systems
+10.3. Principles of therapeutics
+10.3.1. mechanisms of action and use of drugs for treatment of disorders of the hematopoietic system
+10.3.1.1. blood and blood products
+10.3.1.2. treatment of anemia, drugs stimulating erythrocyte production
+10.3.1.3. drugs stimulating leukocyte production
+10.3.1.4. anti-coagulants, thrombolytic drugs
+10.3.1.5. anti-platelet drugs
+10.3.1.6. anti-microbials and anti-parasitics
+10.3.1.7. anti-neoplastic and immunosuppressive drugs in the clinical context of disease
+10.3.1.8. other therapeutic modalities
+10.3.2. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+10.3.2.1. emotional and behavioral factors
+10.3.2.2. influence on person, family, and society
+10.3.2.3. occupational and other environmental risk factors
+10.3.2.4. gender and ethnic factors
+11. Central and Peripheral Nervous Systems (Brain and Behavior)
+11.1. Normal processes
+11.1.1. embryonic development, fetal maturation, and perinatal changes, including neural tube derivatives,
+11.1.2. cerebral ventricles, neural crest derivatives
+11.1.3. organ structure and function
+11.1.3.1. spinal cord, including gross anatomy, blood supply, and spinal reflexes
+11.1.3.2. brain stem
+11.1.3.3. brain, including gross anatomy and blood supply; cognition, language, memory; hypothalamic function; limbic system and emotional behavior; circadian rhythms and sleep; control of eye movement
+11.1.3.4. sensory systems, including proprioception, pain, vision, hearing, balance, taste, and olfaction
+11.1.3.5. motor systems, including brain and spinal cord, basal ganglia, and cerebellum
+11.1.3.6. autonomic nervous system
+11.1.3.7. peripheral nerve
+11.1.4. cell/tissue structure and function
+11.1.4.1. axonal transport
+11.1.4.2. excitable properties of neurons, axons, and dendrites, including channels
+11.1.4.3. synthesis, storage, release, reuptake, and degradation of neurotransmitters and neuromodulators
+11.1.4.4. pre- and postsynaptic receptor interactions, trophic and growth factors
+11.1.4.5. brain metabolism
+11.1.4.6. glia, myelin
+11.1.4.7. brain homeostasis: blood-brain barrier; cerebrospinal fluid formation and flow; choroid plexus
+11.1.5. repair, regeneration, and changes associated with stage of life, including definition of brain death
+11.1.6. Abnormal processes
+11.1.6.1. infectious, inflammatory, and immunologic disorders (including demyelinating disorders, myasthenia gravis and muscle channelopathies, and disorders of the eye and ear)
+11.1.6.2. traumatic and mechanical disorders
+11.1.6.3. neoplastic disorders, including primary and metastatic
+11.1.6.4. metabolic and regulatory disorders
+11.1.6.5. vascular disorders
+11.1.6.6. systemic disorders affecting the nervous system
+11.1.6.7. idiopathic disorders affecting the nervous system
+11.1.6.8. congenital and genetic disorders, including metabolic
+11.1.6.9. degenerative disorders
+11.1.6.10. paroxysmal disorders
+11.1.6.11. disorders of special senses
+11.1.6.12. psychopathologic disorders, processes, and their evaluation
+11.1.6.12.1. early-onset disorders
+11.1.6.12.2. disorders related to substance use
+11.1.6.12.3. schizophrenia and other psychotic disorders
+11.1.6.12.4. mood disorders
+11.1.6.12.5. anxiety disorders
+11.1.6.12.6. somatoform disorders
+11.1.6.12.7. personality disorders
+11.1.6.12.8. physical and sexual abuse of children, adults, and elders
+11.1.6.12.9. other disorders
+11.1.7. drug-induced adverse effects on the central and peripheral nervous system
+11.1.8. neurologic pain syndromes
+11.1.9. Principles of therapeutics
+11.1.10. mechanisms of action and use of drugs for treatment of disorders of the nervous system
+11.1.10.1. anesthetics
+11.1.10.2. hypnotic sedatives
+11.1.10.3. psychopharmacologic agents
+11.1.10.4. anticonvulsants
+11.1.10.5. analgesics
+11.1.10.6. stimulants, amphetamines
+11.1.10.7. anti-parkinsonian drugs and drugs for dementia, Alzheimer type; multiple sclerosis; and restless legs syndrome
+11.1.10.8. skeletal muscle relaxants, botulinum toxin
+11.1.10.9. neuromuscular junction agonists and antagonists
+11.1.10.10. antiglaucoma drugs
+11.1.10.11. drugs used to decrease intracranial pressure
+11.1.10.12. antimigraine agents
+11.1.10.13. drugs affecting the autonomic nervous system, including all general autonomic pharmacology
+11.1.10.14. antimicrobials, antineoplastic drugs, and antiparasitics
+11.1.10.15. drugs used to treat cerebrovascular disorders
+11.1.10.16. treatment for substance abuse disorders
+11.1.10.17. other therapeutic modalities
+11.1.11. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial,
+11.1.11.1. cultural, occupational, and environmental
+11.1.11.2. emotional and behavioral factors
+11.1.11.3. influence on person, family, and society
+11.1.11.4. occupational and other environmental risk factors
+11.1.11.5. gender and ethnic factors
+12. Skin and Related Connective Tissue (Musculoskeletal, Skin and Soft Tissue)
+12.1. Normal processes
+12.1.1. embryonic development, fetal maturation, and perinatal changes
+12.1.2. organ structure and function
+12.1.3. cell/tissue structure and function, including barrier functions, thermal regulation, eccrine function
+12.1.4. repair, regeneration, and changes associated with stage of life or ethnicity
+12.1.5. skin defense mechanisms and normal flora
+12.2. Abnormal processes
+12.2.1. infectious, inflammatory, and immunologic disorders
+12.2.1.1. bacterial infections
+12.2.1.2. viral infections
+12.2.1.3. fungal infections, including mycoses, dermatophytosis
+12.2.1.4. parasitic infections, ectoparasitic infestations, and mycobacterial infections
+12.2.1.5. immune and autoimmune disorders
+12.2.2. traumatic and mechanical disorders
+12.2.2.1. thermal injury
+12.2.2.2. decubitus ulcers
+12.2.2.3. effects of ultraviolet light and radiation
+12.2.3. neoplastic disorders
+12.2.3.1. keratinocytes
+12.2.3.2. melanocytes
+12.2.3.3. vascular neoplasms
+12.2.3.4. other
+12.2.4. metabolic, regulatory, and structural disorders
+12.2.5. vascular disorders
+12.2.6. systemic disorders affecting the skin
+12.2.7. idiopathic disorders
+12.2.8. degenerative disorders
+12.2.9. drug-induced adverse effects on the skin and related connective tissue
+12.2.10. congenital and genetic disorders affecting the skin and related connective tissue
+12.3. Principles of therapeutics
+12.3.1. mechanisms of action and use of drugs for treatment of disorders of the skin and connective tissue
+12.3.1.1. anti-inflammatory agents
+12.3.1.2. emollients
+12.3.1.3. sunscreen
+12.3.1.4. retinoids
+12.3.1.5. antimicrobial and antiparasitic agents
+12.3.1.6. cytotoxic and immunologic therapy and antineoplastic drugs
+12.3.1.7. other therapeutic modalities
+12.4. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+12.4.1. emotional and behavioral factors
+12.4.2. influence on person, family, and society
+12.4.3. occupational and other environmental risk factors
+12.4.4. gender and ethnic factors
+13. Musculoskeletal System (Musculoskeletal, Skin and Soft Tissue)
+13.1. Normal processes
+13.1.1. embryonic development, fetal maturation, and perinatal changes
+13.1.2. organ structure and function
+13.1.3. cell/tissue structure and function
+13.1.3.1. biology of bones, joints, tendons, skeletal muscle
+13.1.3.2. exercise and physical conditioning
+13.2. repair, regeneration, and changes associated with stage of life
+13.3. Abnormal processes
+13.3.1. infectious, inflammatory, and immunologic disorders
+13.3.2. traumatic and mechanical disorders (including fractures, sprains, strains, dislocations, joint injuries, repetitive
+13.3.3. motion injuries, and impingement syndromes)
+13.3.4. neoplastic disorders
+13.3.5. metabolic, regulatory, and structural disorders (including osteomalacia,
+13.3.6. osteoporosis, osteodystrophy, gout, and pseudogout)
+13.3.7. vascular disorders
+13.3.8. systemic disorders affecting the musculoskeletal system
+13.3.9. idiopathic disorders
+13.3.10. degenerative disorders
+13.3.11. drug-induced adverse effects on the musculoskeletal system
+13.3.12. congenital and genetic disorders affecting the musculoskeletal system
+13.4. Principles of therapeutics
+13.4.1. mechanisms of action and use of drugs for treatment of disorders of the musculoskeletal system
+13.4.1.1. non-steroidal anti-inflammatory drugs and analgesics
+13.4.1.2. muscle relaxants
+13.4.1.3. anti-gout therapy
+13.4.1.4. immunosuppressive and antineoplastic drugs
+13.4.1.5. drugs affecting bone mineralization
+13.4.1.6. anti-microbial and anti-parasitic agents
+13.4.1.7. other therapeutic modalities
+13.4.2. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+13.4.2.1. emotional and behavioral factors
+13.4.2.2. influence on person, family, and society
+13.4.2.3. occupational and other environmental risk factors
+13.4.2.4. gender and ethnic factors
+14. Respiratory System (Cardiopulmonary)
+14.1. Normal processes
+14.1.1. embryonic development, fetal maturation, and perinatal changes
+14.1.2. organ structure and function
+14.1.2.1. airways, including mechanics and regulation of breathing
+14.1.2.2. lung parenchyma, including ventilation, perfusion, gas exchange
+14.1.2.3. pleura
+14.1.2.4. nasopharynx and sinuses
+14.1.3. cell/tissue structure and function, including surfactant formation, alveolar structure
+14.2. repair, regeneration, and changes associated with stage of life
+14.3. pulmonary defense mechanisms and normal flora
+14.4. Abnormal processes
+14.4.1. infectious, inflammatory, and immunologic disorders
+14.4.1.1. infectious diseases
+14.4.1.2. infectious diseases of the upper respiratory tract
+14.4.1.3. pyogenic infectious diseases of the lower respiratory tract and pleura, viral infections, and   associated complications
+14.4.1.4. other infectious diseases of the lower respiratory tract
+14.4.1.5. immunologic disorders
+14.4.1.6. allergic and hypersensitivity disorders
+14.4.1.7. autoimmune disorders
+14.4.1.8. inflammatory disorders
+14.4.1.9. pneumoconioses
+14.4.1.10. acute and chronic alveolar injury
+14.4.1.11. chronic obstructive pulmonary disease
+14.4.1.12. restrictive pulmonary disease
+14.4.1.13. traumatic and mechanical disorders
+14.5. neoplastic disorders (including upper airway, lower airway and lung parenchyma, pleura, and metastatic tumors)
+14.6. metabolic, regulatory, and structural disorders
+14.7. vascular and circulatory disorders (including thromboembolic disease, pulmonary hypertension, pulmonary edema, and pleural effusion)
+14.8. systemic disorders affecting the respiratory system
+14.9. idiopathic disorders
+14.10. degenerative disorders
+14.11. drug-induced adverse effects on the respiratory system
+14.12. congenital and genetic disorders affecting the respiratory system
+14.13. Principles of therapeutics
+14.13.1. mechanisms of action and use of drugs for treatment of disorders of the respiratory system
+14.13.1.1. decongestants, cough suppressants, expectorants, mucolytics
+14.13.1.2. bronchodilator drugs
+14.13.1.3. anti-inflammatory and cytotoxic drugs
+14.13.1.4. antimicrobial agents and antiparasitic agents
+14.13.1.5. antineoplastic agents
+14.13.1.6. pulmonary vasodilators
+14.13.1.7. other therapeutic modalities
+14.13.2. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+14.13.2.1. emotional and behavioral factors
+14.13.2.2. influence on person, family, and society
+14.13.2.3. occupational and other environmental risk factors
+14.13.2.4. gender and ethnic factors
+15. Cardiovascular System (Cardiopulmonary)
+15.1. Normal processes
+15.1.1. embryonic development, fetal maturation, and perinatal changes
+15.1.2. organ structure and function
+15.1.2.1. chambers, valves
+15.1.2.2. cardiac cycle, mechanics, heart sounds, cardiac conduction
+15.1.2.3. hemodynamics, including systemic, pulmonary, coronary, and blood volume
+15.1.2.4. circulation in specific vascular beds
+15.1.2.5. cell/tissue structure and function
+15.1.2.6. heart muscle, metabolism, oxygen consumption, biochemistry, and secretory function
+15.1.2.7. endothelium and secretory function, vascular smooth muscle, microcirculation, and lymph flow (including mechanisms of atherosclerosis)
+15.1.2.8. neural and hormonal regulation of the heart, blood vessels, and blood volume, including responses to
+15.1.2.9. change in posture, exercise, and tissue metabolism
+15.1.2.10. repair, regeneration, and changes associated with stage of life
+15.2. Abnormal processes
+15.2.1. infectious, inflammatory, and immunologic disorders
+15.2.2. traumatic and mechanical disorders
+15.2.3. neoplastic disorders
+15.2.4. metabolic and regulatory disorders (including dysrhythmias, systolic and diastolic dysfunction, low- and high-output heart failure, cor pulmonale, systemic hypertension, ischemic heart disease, myocardial infarction, systemic hypotension and shock, and dyslipidemias)
+15.2.5. vascular disorders
+15.2.6. systemic diseases affecting the cardiovascular system
+15.2.7. congenital and genetic disorders of the heart and central vessels
+15.2.8. idiopathic disorders
+15.2.9. drug-induced adverse effects on the cardiovascular system
+15.2.10. degenerative disorders
+15.3. Principles of therapeutics
+15.3.1. mechanisms of action, use, and adverse effects of drugs for treatment of disorders of the cardiovascular system
+15.3.1.1. coronary and peripheral vasodilators
+15.3.1.2. antiarrhythmic drugs
+15.3.1.3. antihypertensive drugs
+15.3.1.4. measures used to combat hypotension and shock
+15.3.1.5. drugs affecting cholesterol and lipid metabolism
+15.3.1.6. drugs affecting blood coagulation, thrombolytic agents, and antiplatelet agents
+15.3.1.7. inotropic agents and treatment of heart failure
+15.3.1.8. immunosuppressive, antimicrobial, antineoplastic, and antiparasitic drugs
+15.3.1.9. drugs to treat peripheral arterial disease
+15.3.1.10. other pharmacotherapy
+15.3.1.11. other therapeutic modalities
+15.3.2. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+15.3.2.1. emotional and behavioral factors
+15.3.2.2. influence on person, family, and society
+15.3.2.3. occupational and other environmental risk factors
+15.3.2.4. gender and ethnic factors
+16. Gastrointestinal System (GI-Nutrition)
+16.1. Normal processes
+16.1.1. embryonic development, fetal maturation, and perinatal changes
+16.1.2. organ structure and function, including alimentary canal, liver and biliary system, salivary glands and exocrine pancreas, motility, and digestion and absorption
+16.1.3. cell/tissue structure and function
+16.1.3.1. endocrine and neural regulatory functions, including GI hormones
+16.1.3.2. salivary, gastrointestinal, pancreatic, hepatic secretory products, including enzymes, proteins, bile salts, and processes
+16.1.3.3. synthetic and metabolic functions of hepatocytes
+16.1.4. repair, regeneration, and changes associated with stage of life
+16.1.5. gastrointestinal defense mechanisms and normal flora
+16.2. Abnormal processes
+16.2.1. infectious, inflammatory, and immunologic disorders
+16.2.2. traumatic and mechanical disorders
+16.2.2.1. malocclusion
+16.2.2.2. hiatal hernia
+16.2.2.3. obstruction
+16.2.2.4. perforation of hollow viscus and blunt trauma
+16.2.2.5. inguinal, femoral, and abdominal wall hernias
+16.2.2.6. esophageal, intestinal, and colonic diverticula
+16.2.3. neoplastic disorders, including benign and malignant
+16.2.4. metabolic and regulatory disorders (including motility disorders, malabsorption, hepatic failure, cholelithiasis, nutritional disorders)
+16.2.5. vascular disorders (including portal hypertension, esophageal varices, hemorrhoids, anal fissure, ischemia, angiodysplasia, thromboses, vasculitis)
+16.2.6. systemic disorders affecting the gastrointestinal system
+16.2.7. idiopathic disorders
+16.2.8. degenerative disorders
+16.2.9. drug-induced adverse effects on the gastrointestinal system
+16.2.10. congenital and genetic disorders affecting the gastrointestinal system
+16.3. Principles of therapeutics
+16.3.1. mechanisms of action and use of drugs for treatment of disorders of the gastrointestinal system
+16.3.1.1. treatment and prophylaxis of peptic ulcer disease and gastroesophageal reflux
+16.3.1.2. drugs to alter gastrointestinal motility
+16.3.1.3. fluid replacement
+16.3.1.4. pancreatic replacement therapy and treatment of pancreatitis
+16.3.1.5. drugs for treatment of hepatic failure and biliary disease
+16.3.1.6. anti-inflammatory, immunosuppressive, antineoplastic, antimicrobial, and antiparasitic drugs
+16.3.1.7. other therapeutic modalities
+16.3.2. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+16.3.2.1. emotional and behavioral factors
+16.3.2.2. influence on person, family, and society
+16.3.2.3. occupational and other environmental risk factors
+16.3.2.4. gender and ethnic factors
+17. Renal/Urinary System (Renal-Endocrine)
+17.1. Normal processes
+17.1.1. embryonic development, fetal maturation, and perinatal changes
+17.1.2. organ structure and function
+17.1.2.1. kidneys, ureters, bladder, urethra
+17.1.2.2. glomerular filtration and hemodynamics
+17.1.2.3. tubular reabsorption and secretion, including transport processes and proteins
+17.1.2.4. urinary concentration and dilution
+17.1.2.5. renal mechanisms in acid-base balance
+17.1.2.6. renal mechanisms in body fluid homeostasis
+17.1.2.7. micturition
+17.1.3. cell/tissue structure and function, including renal metabolism and oxygen consumption, hormones produced by or acting on the kidney
+17.1.4. repair, regeneration, and changes associated with stage of life
+17.2. Abnormal processes
+17.2.1. infectious, inflammatory, and immunologic disorders
+17.2.1.1. infectious disorders
+17.2.1.2. upper urinary tract
+17.2.1.3. lower urinary tract
+17.2.1.4. inflammatory and immunologic disorders
+17.2.1.5. glomerular disorders
+17.2.1.6. tubular interstitial disease
+17.2.2. traumatic and mechanical disorders
+17.2.3. neoplastic disorders, including primary and metastases
+17.2.4. metabolic and regulatory disorders
+17.2.4.1. renal failure, acute and chronic
+17.2.4.2. tubular and collecting duct disorders
+17.2.4.3. renal calculi
+17.2.5. vascular disorders
+17.2.6. systemic diseases affecting the renal system
+17.2.7. idiopathic disorders
+17.2.8. degenerative disorders
+17.2.9. drug-induced adverse effects on the renal/urinary system
+17.2.10. congenital and genetic disorders affecting the renal/urinary system
+17.3. Principles of therapeutics
+17.3.1. mechanisms of action and use of drugs for treatment of disorders of the renal and urinary system
+17.3.1.1. diuretics, antidiuretic drugs
+17.3.1.2. drugs and fluids used to treat volume, electrolyte, and acid-base disorders
+17.3.1.3. drugs used to enhance renal perfusion
+17.3.1.4. anti-inflammatory, antimicrobial, immunosuppressive, antineoplastic, and antiparasitic drugs
+17.3.1.5. drugs used to treat lower urinary tract system
+17.3.2. other therapeutic modalities
+17.3.3. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial,
+17.3.3.1. cultural, occupational, and environmental
+17.3.3.2. emotional and behavioral factors
+17.3.3.3. influence on person, family, and society
+17.3.3.4. occupational and other environmental risk factors
+17.3.3.5. gender and ethnic factors
+18. Reproductive System (Sexuality and Reproductive Medicine)
+18.1. Normal processes
+18.1.1. embryonic development, fetal maturation, and perinatal changes, including gametogenesis
+18.1.2. organ structure and function
+18.1.2.1. female structure, including breast
+18.1.2.2. female function
+18.1.2.3. male structure
+18.1.2.4. male function
+18.1.2.5. intercourse, orgasm
+18.1.2.6. pregnancy, including ovulation, fertilization, implantation, labor and delivery, the puerperium, lactation, gestational uterus, placenta
+18.1.3. cell/tissue structure and function, including hypothalamic-pituitary-gonadal axis, sex steroids, and gestational hormones
+18.1.4. reproductive system defense mechanisms and normal flora
+18.2. Abnormal processes
+18.2.1. infectious, inflammatory, and immunologic disorders (female and male)
+18.2.2. traumatic and mechanical disorders (female and male)
+18.2.3. neoplastic disorders (including female reproductive, male reproductive, breast [including fibrocystic changes], trophoblastic disease)
+18.2.4. metabolic and regulatory processes (female and male)
+18.2.5. prenatal and perinatal counseling and screening
+18.2.6. systemic disorders affecting reproductive function
+18.3. disorders relating to pregnancy, the puerperium, and the postpartum period
+18.3.1. obstetric problems
+18.3.2. complications affecting other organ systems
+18.3.3. disorders associated with the puerperium
+18.3.4. antepartum, intrapartum, postpartum disorders of the fetus
+18.4. idiopathic disorders
+18.5. drug-induced adverse effects on the reproductive system
+18.6. degenerative disorders
+18.7. congenital and genetic disorders affecting the reproductive system
+18.8. Principles of therapeutics
+18.8.1. mechanisms of action and use of drugs for treatment of disorders of the reproductive system and management of normal reproductive function
+18.8.1.1. female reproductive tract
+18.8.1.2. fertility drugs
+18.8.1.3. oral contraception, other methods of contraception
+18.8.1.4. estrogen, progesterone replacement, treatment of menopause
+18.8.1.5. stimulants and inhibitors of labor
+18.8.1.6. estrogen and progesterone antagonists
+18.8.1.7. stimulators and inhibitors of lactation
+18.8.1.8. male reproductive tract
+18.8.1.9. fertility drugs
+18.8.1.10. androgen replacement and antagonists
+18.8.1.11. gonadotropin-releasing hormone and gonadotropin replacement, including all gonadotropin-releasing hormone antagonists
+18.8.1.12. abortifacients
+18.8.1.13. antimicrobial and antiparasitic agents
+18.8.1.14. antineoplastics
+18.8.1.15. restoration of potency
+18.8.2. other therapeutic modalities affecting the reproductive system
+18.8.3. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+18.8.3.1. emotional and behavioral factors
+18.8.3.2. influence on person, family, and society
+18.8.3.3. occupational and other environmental risk factors
+18.8.3.4. family planning and pregnancy
+18.8.3.5. gender identity, sexual orientation, sexuality, libido
+18.8.3.6. effects of traumatic stress syndrome, violence, rape, child abuse
+19. Endocrine System (Renal-Endocrine)
+19.1. Normal processes
+19.1.1. embryonic development, fetal maturation, and perinatal changes
+19.1.2. organ structure and function
+19.1.2.1. hypothalamus, posterior and anterior pituitary gland
+19.1.2.2. thyroid gland
+19.1.2.3. parathyroid glands
+19.1.2.4. adrenal cortex, adrenal medulla
+19.1.2.5. pancreatic islets
+19.1.2.6. ovary and testis
+19.1.2.7. adipose tissue
+19.1.3. cell/tissue structure and function, including hormone synthesis, secretion, action, and metabolism
+19.1.3.1. peptide hormones
+19.1.3.2. steroid hormones, including vitamin D
+19.1.3.3. thyroid hormones
+19.1.3.4. catecholamine hormones
+19.1.3.5. renin-angiotensin system
+19.1.4. repair, regeneration, and changes associated with stage of life
+19.2. Abnormal processes
+19.2.1. infectious, inflammatory, and immunologic disorders
+19.2.2. traumatic and mechanical disorders
+19.2.3. neoplastic disorders (including pituitary, thyroid, parathyroid, adrenal cortex, pancreatic islets, neural crest, pheochromocytoma)
+19.2.4. metabolic and regulatory processes (including diabetes mellitus, pituitary, hypothalamus, thyroid,
+19.2.5. parathyroid, pancreatic islet disorders, adrenal disorders)
+19.2.6. vascular disorders
+19.2.7. systemic disorders affecting the endocrine system
+19.2.8. idiopathic disorders
+19.2.9. degenerative disorders
+19.2.10. drug-induced adverse effects on the endocrine system
+19.2.11. congenital and genetic disorders affecting the endocrine system
+19.3. Principles of therapeutics
+19.3.1. mechanisms of action and use of drugs for treatment of disorders of the endocrine system
+19.3.1.1. hormones and hormone analogs
+19.3.1.2. stimulators of hormone production
+19.3.1.3. inhibitors of hormone production
+19.3.1.4. hormone antagonists
+19.3.1.5. potentiators of hormone action
+19.3.1.6. antiobesity agents
+19.3.1.7. nonhormonal therapy for endocrine disorders
+19.3.1.8. other treatment for diabetes
+19.3.2. other therapeutic modalities
+19.3.3. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+19.3.3.1. emotional and behavioral factors
+19.3.3.2. influence on person, family, and society
+19.3.3.3. occupational and other environmental risk factors
+19.3.3.4. gender and ethnic factors
+20. Immune System (Inflammation and Immunity)
+20.1. Normal processes
+20.1.1. development of cells of the adaptive immune response, including positive and negative selection during
+20.1.2. immune development
+20.1.3. structure, production, and function
+20.1.3.1. granulocytes, natural killer cells, macrophages, mast cells, dendritic cells, cell receptors
+20.1.3.2. T lymphocytes, including T-lymphocyte receptors, accessory molecules, cell activation and proliferation,
+20.1.3.3. cytotoxic T lymphocytes, and memory T lymphocytes
+20.1.3.4. B lymphocytes and plasma cells, including B-lymphocyte receptors, immunoglobulins, cell activation and proliferation, including development of antibodies and memory B lymphocytes
+20.1.3.5. structure and function of lymph nodes, host defense mechanisms, host barriers to infection, mucosal immunity
+20.1.4. immunogenetics
+20.1.5. Rh and ABO antigens, including genetics
+20.1.6. cellular basis of the immune response and immunologic mediators
+20.1.7. antigen processing and presentation in the context of MHC I and MHC II molecules, including distribution of MHC I and MHC II on different cells, mechanism of MHC I and MHC II deficiencies, and the genetics of MHC
+20.1.8. regulation of the adaptive immune response
+20.1.9. activation, function, and molecular biology of complement
+20.1.10. function and molecular biology of cytokines
+20.1.11. basis of immunologic diagnosis
+20.2. Abnormal processes
+20.2.1. disorders with alterations in immunologic function
+20.2.1.1. abnormalities in adaptive immune responses
+20.2.1.2. deficiencies of phagocytic cells and natural killer cells
+20.2.1.3. complement deficiency
+20.2.1.4. HIV infection/AIDS
+20.2.1.5. Non-HIV infections of lymphocytes
+20.2.1.6. systemic diseases of immunologic function
+20.2.1.7. systemic disorders affecting the immune system and the effect of age on the function of components of the immune system
+20.2.2. immunologically mediated disorders
+20.2.2.1. type I, type II, type III hypersensitivity
+20.2.2.2. type IV hypersensitivity
+20.2.2.3. transplantation risks and rejection, including transfusion reactions
+20.2.2.4. isoimmunization, hemolytic disease of the newborn
+20.2.3. drug-induced adverse effects on the immune system, including Jarisch-Herxheimer reaction
+20.3. Principles of therapeutics
+20.3.1. mechanisms of action and use of drugs that specifically affect immune function
+20.3.1.1. vaccines (active and passive)
+20.3.1.2. antiretrovirals
+20.3.1.3. immunomodulating and antineoplastic drugs
+20.3.1.4. biologics, including monoclonal and polyclonal antibodies
+20.3.2. other therapeutic modalities
+20.3.3. Gender, ethnic, and behavioral considerations affecting disease treatment and prevention, including psychosocial, cultural, occupational, and environmental
+20.3.3.1. emotional and behavioral factors
+20.3.3.2. influence on person, family, and society
+20.3.3.3. occupational and other environmental risk factors
+20.3.3.4. gender and ethnic factors
