@@ -32,13 +32,13 @@ class UsmleTermDescriptions
         #c.child('description').content = @description_file.readlines[cid]
       end
      taxml = @taxml
-    File.open('CS_terms_usmle_descript.xml', "w") do |file|
+    File.open('export/CS_terms_usmle_descript.xml', "w") do |file|
       file.puts taxml.to_xml
     end
   end
  
   def read_description_file
-    File.open('./usmle_descriptions.txt', 'r')   
+    File.open('scraped/usmle_descriptions.txt', 'r')   
   end
   
   def find_descriptions

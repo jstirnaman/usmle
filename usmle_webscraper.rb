@@ -140,7 +140,7 @@ class Usmle
     #@csv_arr = []
    @parsed = ''
    @doc = ''
-    filename = "usmle#{usmle_step}.txt"
+    filename = "scraped/usmle#{usmle_step}.txt"
     STDERR.puts "Opening " + filename
         File.open(filename, "w") do |file|                 
       
@@ -219,7 +219,7 @@ return @doc
         xmldoc = new_xml_doc       
          
       # Wrap our node set and write our XML document to a file
-        filename = "usmle#{usmle_step}.xml"
+        filename = "scraped/usmle#{usmle_step}.xml"
         File.open(filename, "w") do |file|
           file.puts xmldoc
           file.puts '<div id="usmle_step">'
